@@ -13,3 +13,5 @@ gems:
 
 exclude:
   - node_modules
+
+theme: jekyll-theme-cayman
